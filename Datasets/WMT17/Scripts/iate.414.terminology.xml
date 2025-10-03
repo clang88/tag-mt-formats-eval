@@ -1,0 +1,3514 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mtf>
+  <conceptGrp>
+    <concept>1</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>immune</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>immun</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>2</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Tokyo embassy</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Tokyo Botschaft</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>3</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Republicans</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Die Republikaner</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>4</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>conversation</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Gespräch</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>5</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>hype</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Hype</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>6</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>homicide</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Tötungsdelikt</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>7</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Thailand</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Thailand</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>8</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>emergency call</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Notruf</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>9</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>petition</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Petition</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>10</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>charisma</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Charisma</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>11</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>election campaign</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Wahlkampagne</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>12</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>to smell</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>riechen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>13</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Prime Minister</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Ministerpräsident</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>14</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>summit</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Gipfeltreffen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>15</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>26</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>26</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>16</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>cash</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Bargeld</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>17</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>NPD</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>NPD</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>18</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>interview</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Interview</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>19</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>writing</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Schreiben</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>20</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>repairs</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Reparaturen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>21</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>office</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Büro</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>22</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>cosmic radiation</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>kosmische Strahlung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>23</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>resignation</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Rücktritt</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>24</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>solution</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Lösung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>25</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>whip</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Whip</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>26</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Lille</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Lille</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>27</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>prize</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Preisgeld</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>28</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>housing market</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Wohnungsmarkt</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>29</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Moscow State Institute of International Relations</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>MGIMO</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>30</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>observation</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Beobachtung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>31</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>execution</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Ausführung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>32</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>owner</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Inhaber</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>33</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Israel</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Israel</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>34</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>criminal investigation</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Ermittlungsverfahren</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>35</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>keyboard</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Tastatur</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>36</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>strength</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Stärke</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>37</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>minority</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Minderheit</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>38</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>challenge</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Herausforderung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>39</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>US</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>US</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>40</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>deputy</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Stellvertreter</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>41</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>goods</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Güter</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>42</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>warning</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Warnung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>43</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term></term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term></term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>44</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>simulation</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Simulation</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>45</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>CDU</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>CDU</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>46</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>regions</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Regionen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>47</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>request</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Antrag</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>48</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>option</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Option</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>49</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>consensus</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Konsens</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>50</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>structure</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Struktur</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>51</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>helicopter</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Hubschrauber</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>52</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>ingredient</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Inhaltsstoff</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>53</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>progress</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Fortschritt</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>54</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>shape</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Form</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>55</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>pay</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Entlohnung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>56</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>relief</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Erlass</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>57</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>approval</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Zustimmung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>58</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>claimant</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Kläger</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>59</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Texas</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Texas</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>60</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>tongue</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Zunge</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>61</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>supplies</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Lieferungen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>62</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>series</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Reihe</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>63</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>industrial enterprises</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Industriebetriebe</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>64</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>transformation</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Transformation</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>65</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>AC</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>AC</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>66</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>star</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Stern</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>67</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>bridge</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Bridge</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>68</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>both sides</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>beidseitig</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>69</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>commune</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Gemeinde</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>70</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>comparison</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Gegenüberstellung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>71</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>source</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Source</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>72</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>target</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Ziel</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>73</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>night</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Nacht</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>74</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>BST</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>BST</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>75</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>month</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Monat</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>76</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>strength</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Kraft</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>77</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>units</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Einheiten</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>78</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>election campaign</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Wahlkampf</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>79</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>target group</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Zielgruppe</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>80</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>customary</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>üblich</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>81</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>surroundings</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Umgebung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>82</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>communications</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Kommunikation</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>83</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term></term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>
+</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>84</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>taste</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Geschmack</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>85</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Federal Security Service</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>FSB</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>86</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>bladder cancer</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Blasenkrebs</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>87</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>travel</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Reisen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>88</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>buoy</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Boje</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>89</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>actor</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Schauspieler</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>90</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>World Championship</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>WM</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>91</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>repeatedly</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>wiederholt</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>92</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Luxembourg</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Luxemburg</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>93</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>feature</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>umfassen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>94</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>aspect</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Aspekt</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>95</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>menu</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Menü</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>96</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>alcohol</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Alkohol</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>97</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>pair</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Paar</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>98</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Judge</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Richter</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>99</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>performances</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Leistung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>100</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Upper Palatinate</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Oberpfalz</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>101</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>astronaut</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Astronaut</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>102</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Swiss</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Schweizerin</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>103</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>appearance</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Aussehen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>104</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>black market</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Schwarzmarkt</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>105</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>materials</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Materialien</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>106</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>link</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Verbindung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>107</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>duration</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Dauer</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>108</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>office</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Amt</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>109</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>stack</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Stapel</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>110</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>presence</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Anwesenheit</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>111</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>financial crisis</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Finanzkrise</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>112</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Syria</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Syrien</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>113</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>virtual reality</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>virtuelle Realität</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>114</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Swabia</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Schwaben</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>115</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Madeira</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Madeira</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>116</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Madrid</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Madrid</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>117</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>terrorism</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Terrorismus</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>118</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>China</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>China</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>119</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>perpetrator</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Täter</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>120</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>safety</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Sicherheit</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>121</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Nice</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Nizza</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>122</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>tobacco</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Tabak</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>123</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>length</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Länge</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>124</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>vector</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Vektor</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>125</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>options</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Optionen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>126</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>integrated</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>integriert</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>127</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Brexit</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Brexit</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>128</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>accident</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Unfall</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>129</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>generator</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Stromerzeuger</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>130</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>bonus</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Bonus</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>131</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>generation</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Generation</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>132</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>eating habits</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Essgewohnheiten</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>133</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>sign</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Signal</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>134</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>minute</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Minute</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>135</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>trip</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Reise</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>136</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>budgetary deficit</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Haushaltsdefizit</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>137</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>gold</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Gold</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>138</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Bangkok</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Bangkok</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>139</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>owner</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Eigentümer</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>140</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>comfort</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Komfort</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>141</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Brazil</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Brasilien</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>142</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>explosion</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Explosion</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>143</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>joint</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Joint</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>144</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>sponsorship</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Sponsoring</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>145</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>holiday</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Urlaub</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>146</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>forced prostitution</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Zwangsprostitution</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>147</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>comparison</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Vergleich</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>148</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>covering</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Bezug</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>149</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>side</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Seite</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>150</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Western Europe</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Westeuropa</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>151</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>sport</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Sport</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>152</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>request</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Aufforderung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>153</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>certified</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>anerkannt</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>154</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>opinion</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Meinung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>155</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>depth</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Tiefe</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>156</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>series</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Serie</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>157</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>public health</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Gesundheit</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>158</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>lunch</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Mittagessen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>159</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>died</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>gestorben</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>160</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>CPI</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>CPI</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>161</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>beverages</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Getränke</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>162</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Beijing</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Peking</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>163</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>charm</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Charme</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>164</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>trade</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Handel</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>165</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Swiss</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Schweizer</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>166</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>science</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Wissenschaft</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>167</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>penalty interest</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Strafzinsen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>168</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>sleep disorders</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Schlafstörungen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>169</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>strength</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Widerstandsfähigkeit</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>170</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>fog</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Nebel</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>171</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>eggs</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Eier</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>172</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>revenue</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Einnahmen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>173</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Dublin</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Dublin</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>174</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>land use</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Bodennutzung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>175</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>arrest</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Festnahme</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>176</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>hearing</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Anhörung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>177</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>height</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Körpergröße</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>178</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>equipment</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Ausstattung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>179</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>subside</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>nachlassen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>180</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>sample</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Probe</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>181</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Iraq</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Irak</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>182</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>social media</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>soziale Medien</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>183</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>organiser</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Veranstalter</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>184</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>general public</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Bevölkerung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>185</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>vote</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Wahlstimme</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>186</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>category</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Kategorie</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>187</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>strong</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>stark</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>188</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>rural</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>ländlich</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>189</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>damage</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Schaden</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>190</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>building</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Gebäude</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>191</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>feature</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Feature</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>192</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>campaign</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Kampagne</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>193</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>air strike</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Luftangriff</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>194</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Islamic State</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>ISIL</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>195</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>error</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Fehler</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>196</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>forearm</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Vorderarm</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>197</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>stepson</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Stiefsohn</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>198</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>state of emergency</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Ausnahmezustand</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>199</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>to block</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>blockieren</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>200</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>capital</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Hauptstadt</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>201</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>microcephaly</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Mikrozephalie</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>202</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>state of emergency</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Notstand</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>203</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>hospitals</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Krankenhäuser</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>204</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>tone</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Ton</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>205</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>stream</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Strom</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>206</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>dumping</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Preisdumping</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>207</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>author</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Autor</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>208</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>building</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Bau</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>209</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>laboratory</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Labor</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>210</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Africa</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Afrika</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>211</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Court of Arbitration for Sport</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>CAS</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>212</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>International Olympic Committee</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>IOC</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>213</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>rehearsal</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Probe</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>214</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>doping</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Doping</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>215</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>requirement</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Anforderung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>216</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>housing</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Wohnung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>217</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>parts</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Teile</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>218</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>fees</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Gebühren</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>219</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>facility</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Anlage</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>220</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>sign</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Zeichen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>221</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>radio</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Radio</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>222</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Islamic State</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>IS</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>223</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>bridge</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Brücke</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>224</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Brussels</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Brüssel</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>225</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>caricature</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Karikatur</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>226</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>designate</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>ausweisen</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>227</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>National Liberation Front</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Nationale Befreiungsfront</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>228</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>bodily harm</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Körperverletzung</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>229</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>victories</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Siege</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>230</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>knee</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Knie</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>231</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>environment</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Kontext</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>232</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>Japan</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Japan</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>233</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>disagreement</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Meinungsverschiedenheit</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+  <conceptGrp>
+    <concept>234</concept>
+    <languageGrp>
+      <language type="English (United Kingdom)" lang="EN-GB"/>
+      <termGrp>
+        <term>skin</term>
+      </termGrp>
+    </languageGrp>
+    <languageGrp>
+      <language type="German (Germany)" lang="DE-DE"/>
+      <termGrp>
+        <term>Haut</term>
+      </termGrp>
+    </languageGrp>
+  </conceptGrp>
+</mtf>
