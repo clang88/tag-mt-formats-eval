@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <!-- Field element -->
+      <xs:element name="f" type="mixedContent" />
+      <!-- Complex type for mixed content -->
+      <xs:complexType name="mixedContent" mixed="true">
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <!-- Inline elements -->
+          <xs:element name="em" type="mixedContent" />
+          <xs:element name="strong" type="mixedContent" />
+          <xs:element name="sub" type="mixedContent" />
+          <xs:element name="sup" type="mixedContent" />
+          <!-- Special elements -->
+          <xs:element name="a">
+            <xs:complexType mixed="true">
+              <xs:attribute name="xref-type" type="xs:string" use="required" />
+              <xs:attribute name="xref-ulink-url" type="xs:string" use="optional" />
+              <xs:attribute name="xref-tlink-languageid" type="xs:string" use="optional" />
+              <xs:attribute name="xref-tlink-term" type="xs:string" use="optional" />
+              <xs:attribute name="xref-clink-conceptid" type="xs:string" use="optional" />
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:schema>
